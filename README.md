@@ -6,3 +6,9 @@ Creating Application Using SpringBoot, Spring Security 6, SpringBoot 3 Security,
  https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
 2.Resourec Code 
  https://github.com/eazybytes/springsecurity6
+
+
+
+
+Java Practice
+https://github.com/dachepallisrinivas-1966
